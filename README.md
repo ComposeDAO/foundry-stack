@@ -1,5 +1,6 @@
-# ComoposeDAO Smart Contract Framework
+# ComposeDAO Smart Contract Framework
 
+Built with [Foundry](https://github.com/foundry-rs/foundry)
 
 ### Helpful links
 
